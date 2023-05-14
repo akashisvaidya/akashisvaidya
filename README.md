@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **PokeMon Api**
 
-- 👨‍💻 All of my projects are available at [akashvaidya.com](akashvaidya.com)
+- 👨‍💻 All of my projects are available at [www.akashvaidya.com](akashvaidya.com)
 
 - 💬 Ask me about **JS, HTML, CSS, BootStrap**
 
